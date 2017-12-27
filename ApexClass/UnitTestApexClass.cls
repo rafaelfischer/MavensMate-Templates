@@ -6,7 +6,7 @@ private class {{ api_name }} {
 		
 			
 		
-		Teste.stopTest();
+		Test.stopTest();
 	}
 	
 }
